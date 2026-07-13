@@ -1,6 +1,8 @@
 # SamaBPE — Multilingual BPE Experiment
 
-**Production:** https://sama-bpe-tokenizer.netlify.app/
+**Production:** https://sama-bpe-tokenizer-413.netlify.app
+
+(Netlify account: `you@example.com` · site `sama-bpe-tokenizer-413`)
 
 ---
 
