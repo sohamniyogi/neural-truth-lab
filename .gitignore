@@ -1,2 +1,10 @@
 # Local Netlify folder
 .netlify
+
+# Secrets / local artifacts (security remediation)
+*.pyc
+__pycache__/
+.env
+.env.*
+!.env.example
+!*.env.example
